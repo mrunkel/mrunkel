@@ -22,18 +22,18 @@ Been writing code and figuring out complex systems since 1980.
 - Forth
 - Clipper
 - FORTRAN
-- C
-- Perl
-- PHP
-- Javascript
-- Java
+- <img alt="" src="https://raw.githubusercontent.com/mrunkel/mrunkel/master/assets/icons/c.svg" width="15px"> C language 
+- <img alt="" src="https://raw.githubusercontent.com/mrunkel/mrunkel/master/assets/icons/perl.svg" width="15px"> Perl
+- <img alt="" src="https://raw.githubusercontent.com/mrunkel/mrunkel/master/assets/icons/php.svg" width="15px"> PHP
+- <img alt="" src="https://raw.githubusercontent.com/mrunkel/mrunkel/master/assets/icons/javascript.svg" width="15px"> Javascript
+- <img alt="" src="https://raw.githubusercontent.com/mrunkel/mrunkel/master/assets/icons/java.svg" width="15px"> Java
 
 
 📕 Currently learning:
-- ![symfony logo](https://simpleicons.org/icons/symfony.svg | width=5 | height=5) Symfony 5
-- ![go logo](https://simpleicons.org/icons/go.svg | width=5 | height=5) Golang
-- ![C# logo](https://simpleicons.org/icons/csharp.svg | width=5 | height=5) C# .net
-- ![Python logo](https://simpleicons.org/icons/python.svg | width=5 | height=5) Python
+- <img alt="" src="https://raw.githubusercontent.com/mrunkel/mrunkel/master/assets/icons/symfony.svg" width="15px"> Symfony 5
+- <img alt="" src="https://raw.githubusercontent.com/mrunkel/mrunkel/master/assets/icons/go.svg" width="15px"> Golang
+- <img alt="" src="https://raw.githubusercontent.com/mrunkel/mrunkel/master/assets/icons/csharp.svg" width="15px"> C# .net
+- <img alt="" src="https://raw.githubusercontent.com/mrunkel/mrunkel/master/assets/icons/python.svg" width="15px"> Python
 
 
 💬 Ask me about:
