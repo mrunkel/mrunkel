@@ -17,7 +17,7 @@ Been writing code and figuring out complex systems since 1980.
 ---
 
 🧠 Self-taught programmer of the following languages (in which I've shipped working code)
-- Pascal
+- Pascal (UCSD and Turbo)
 - VisualBasic
 - Forth
 - Clipper
@@ -30,10 +30,10 @@ Been writing code and figuring out complex systems since 1980.
 
 
 📕 Currently learning:
-- Symfony 5
-- golang
-- C# .net
-- Python
+- ![symfony logo](https://simpleicons.org/icons/symfony.svg | width=5 | height=5) Symfony 5
+- ![go logo](https://simpleicons.org/icons/go.svg | width=5 | height=5) Golang
+- ![C# logo](https://simpleicons.org/icons/csharp.svg | width=5 | height=5) C# .net
+- ![Python logo](https://simpleicons.org/icons/python.svg | width=5 | height=5) Python
 
 
 💬 Ask me about:
