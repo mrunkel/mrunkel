@@ -1,16 +1,23 @@
+
+<p>
+    <a href="https://runkel.org">
+        <img width="400" 
+             style="float: right" 
+             src="https://raw.githubusercontent.com/mrunkel/mrunkel/assets/myFace.jpg?raw=true"
+             alt="my Face"
+             >
+    </a>
+</p>
+
 ### Hi there 👋
 
-<!--
-**mrunkel/mrunkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a broken down old coder who still manages to help out here and there.
+Been writing code and understanding systems since 1980.
 
-Here are some ideas to get you started:
+- 💬 Ask me about just about anything.
+- 📫 How to reach me: <a href='&#109;ai&#108;to&#58;ma&#37;72%6&#51;&#64;ru&#110;%6&#66;&#101;&#108;&#46;o&#114;g'>marc&#64;runk&#101;l&#46;o&#114;&#103;</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![mrunkel's github stats](https://github-readme-stats.vercel.app/api?username=mrunkel&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mrunkel.mrunkel)
